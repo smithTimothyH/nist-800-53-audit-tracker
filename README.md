@@ -44,7 +44,7 @@ A comprehensive web application for tracking and documenting compliance with NIS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nist-800-53-audit-tracker.git
+git clone https://github.com/smithTimothyH/nist-800-53-audit-tracker.git
 cd nist-800-53-audit-tracker
 ```
 
