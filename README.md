@@ -161,14 +161,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
 - [Lucide](https://lucide.dev/) for the beautiful icons
 
-## 📞 Support
-
-For questions or support, please:
-
-1. Check the [User Guide](src/pages/UserGuidePage.tsx) within the application
-2. Review the [FAQ section](#faq) in the user guide
-3. Open an issue on GitHub
-4. Contact the development team
 
 ## 🔮 Future Enhancements
 
